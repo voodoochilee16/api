@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Paulo-Ferreira-s-workspace-ngekvv.eu-west-1.xata.sh/db/pfjoboarddemo",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
